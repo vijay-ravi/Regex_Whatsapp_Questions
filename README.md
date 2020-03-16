@@ -1,8 +1,8 @@
 # Regex_Whatsapp_Questions
-Jupyter Notebook containing 30+ questions for practicing your Regex skills on your whatsapp text. Also contains a notebook with all the solutions for your reference. The questions test you on quantifiers, anchors, group ranges and characters.
+Jupyter Notebook containing 30+ questions for practicing your Regex skills on your Whatsapp text. Also contains a notebook with all the solutions for your reference. The questions test you on **quantifiers, anchors, group ranges and characters.**
 <br>
 <br>
-These questions in the Notebook will help you analyze text in your whatsapp chat while at the same time test your regex skills. A fun way to learn regex!
+These questions will help you analyze text in your Whatsapp chat while at the same time test your regex skills: a fun way to learn regex!
 <br>
 <br>
 **NOTE: Please place all the files including the images in the same folder as the Notebook needs access to these images.**
